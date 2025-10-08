@@ -4,3 +4,5 @@ __pycache__/
 *.pyo
 simulation_logs/
 sweep_results/
+optimization_sweep_leaderboard.txt
+optimization_sweep_leaderboard.csv
